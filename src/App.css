@@ -1,38 +1,102 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body{
+  background-color:rgba(38, 11, 63, 0.932);
+  font-family: poppins, sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.chatbox{
+  border: 2px solid grey;
+  border-radius: 10px 20px 30px 10px; 
+  margin: 5px 0;
+  padding: 10px 15px;
+  background-color: rgb(24, 76, 124);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.me .chatbox{
+  background-color: rgb(40, 117, 91);
+  border-radius: 20px 10px 5px 30px; 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.container{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.container.me{
+  flex-direction: row-reverse;
+}
+
+.btm{
+  position: fixed;
+  width:90%;
+  bottom: 50px;
+  left: 5%;
+  display: flex;
+  flex-direction: row;
+}
+
+.btm input{
+  padding: 10px 0 10px 20px;
+  flex-grow: 1;
+  font-size: 15px;
+  border-radius: 50px 0 0 50px;
+}
+
+.btm button{
+  color: rgb(255, 255, 255);
+  background-color: rgb(17, 152, 161);
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 0 50px 50px 0;
+}
+
+.btm button:hover{
+  box-shadow: 0 0 2px 2px white;
+}
+
+.chat-container{
+  height: 70vh;
+  overflow-y:scroll;
+  border: 1px solid rgb(116, 112, 112) ;
+  background-color: rgba(41, 9, 71, 0.932);
+}
+
+.start{
+  text-align: center;
+  padding: 50px 0 ;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.sign-btn {
+  border-radius: 50px;
+  font-size: 30px;
+  padding: 10px 30px;
+  background-color: whitesmoke;
+  cursor: pointer;
+  font-weight: 750 ;
+  box-shadow: 8px 8px rgba(191, 161, 219, 0.932);
+  margin-top: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sign-btn:hover{
+  box-shadow: 8px 8px 8px rgba(191, 161, 219, 0.932);
+}
+
+h1{
+  font-size: 3rem;
+}
+
+span{
+  text-decoration: underline;
+  color: bisque;
+}
+
+h3{
+  color: white;
+  text-align: center;
+}
+
+strong{
+  color: white;
 }
