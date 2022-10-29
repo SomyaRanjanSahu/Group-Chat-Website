@@ -3,7 +3,9 @@
 ![](https://img.shields.io/badge/Level-Intermediate-red.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg) 
 
-# Getting Started with Create React App
+<h1 align="center">Group Chat</h1>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
