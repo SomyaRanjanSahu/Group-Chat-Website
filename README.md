@@ -6,6 +6,10 @@
 <h1 align="center">Group Chat</h1>
 
 <h2> Tech Stack : </h2>
+<ol>
+  <li>React</li>
+  <li>Firebase</li>
+</ol>
 
 ## Getting Started with Create React App
 
