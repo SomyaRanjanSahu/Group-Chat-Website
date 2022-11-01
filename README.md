@@ -7,7 +7,7 @@
 
 <h2> Tech Stack : </h2>
 <ol>
-  <li>React</li>
+  <li>React <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="html5" width="15" height="15"/> </li>
   <li>Firebase</li>
 </ol>
 
