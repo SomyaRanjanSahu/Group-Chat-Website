@@ -8,7 +8,7 @@
 <h2> Tech Stack : </h2>
 <ol>
   <li>React <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="20" height="20"/> </li>
-  <li>Firebase <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="react" width="15" height="15"/> </li>
+  <li>Firebase <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="react" width="20" height="20"/> </li>
 </ol>
 
 ## Getting Started with Create React App
