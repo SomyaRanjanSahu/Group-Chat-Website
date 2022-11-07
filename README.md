@@ -11,6 +11,8 @@
   <li>Firebase <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="20" height="20"/> </li>
 </ol>
 
+<h2> Screenshots : </h2>
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
