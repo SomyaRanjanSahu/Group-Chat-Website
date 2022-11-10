@@ -12,6 +12,9 @@
 </ol>
 
 <h2> Screenshots : </h2>
+<p>
+  <img src="https://i.postimg.cc/x1Q495Tw/1.png" width="600px"/>
+</p>
 
 ## Getting Started with Create React App
 
