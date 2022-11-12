@@ -12,7 +12,7 @@
 </ol>
 
 <h2> Screenshots : </h2>
-<p>
+<p align = "center">
   <img src="https://i.postimg.cc/x1Q495Tw/1.png" width="600px"/>
 </p>
 
