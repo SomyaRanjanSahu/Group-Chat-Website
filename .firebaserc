@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "react-chat-app-507ab"
-  }
+    "default": "group-chat-app-53b58",
+    "staging": "group-chat-app-53b58"
+  },
+  "targets": {},
+  "etags": {}
 }
