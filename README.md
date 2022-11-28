@@ -19,7 +19,8 @@
   <img src="https://i.postimg.cc/6pyD9PRB/somya.png" width="600px"/>
 </p>
 
-## Getting Started with Create React App
+<h2> Documentation : </h2>
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
